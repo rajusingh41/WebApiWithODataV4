@@ -1,0 +1,6 @@
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.Model\bin\Debug\ODataV4.Model.dll
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.Model\bin\Debug\ODataV4.Model.pdb
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.Model\obj\Debug\ODataV4.Model.csprojAssemblyReference.cache
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.Model\obj\Debug\ODataV4.Model.csproj.CoreCompileInputs.cache
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.Model\obj\Debug\ODataV4.Model.dll
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.Model\obj\Debug\ODataV4.Model.pdb

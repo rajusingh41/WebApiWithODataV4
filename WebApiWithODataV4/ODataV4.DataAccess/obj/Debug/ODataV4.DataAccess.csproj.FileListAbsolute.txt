@@ -1,0 +1,6 @@
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.DataAccess\bin\Debug\ODataV4.DataAccess.dll
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.DataAccess\bin\Debug\ODataV4.DataAccess.pdb
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.DataAccess\obj\Debug\ODataV4.DataAccess.csprojAssemblyReference.cache
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.DataAccess\obj\Debug\ODataV4.DataAccess.csproj.CoreCompileInputs.cache
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.DataAccess\obj\Debug\ODataV4.DataAccess.dll
+C:\GitRepo\WebApiWithODataV4\WebApiWithODataV4\ODataV4.DataAccess\obj\Debug\ODataV4.DataAccess.pdb
