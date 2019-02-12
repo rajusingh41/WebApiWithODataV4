@@ -3,3 +3,8 @@
 ################################################################################
 
 /WebApiWithODataV4/.vs/WebApiWithODataV4/v15/Server/sqlite3
+/WebApiWithODataV4/ODataV4.Model/obj/Release
+/WebApiWithODataV4/ODataV4.WebApi/bin
+/WebApiWithODataV4/ODataV4.WebApi/obj/Release
+/WebApiWithODataV4/packages
+/WebApiWithODataV4/ODataV4.DataAccess/obj/Release
