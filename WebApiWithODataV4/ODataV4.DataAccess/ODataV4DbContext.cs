@@ -2,22 +2,22 @@
 using System.Data.Entity;
 namespace ODataV4.DataAccess
 {
-    public class ODataV4DbContext:DbContext
+    public class ODataV4DbContext : DbContext
     {
         public ODataV4DbContext() : base("name=ODataV4Connection")
         {
-            Database.SetInitializer(new ODataV4DbInitializer());
+            // Database.SetInitializer(new ODataV4DbInitializer());
 
             // disable lazy loading 
-            Configuration.LazyLoadingEnabled = false;
+            // Configuration.LazyLoadingEnabled = false;
         }
 
-        public DbSet<Person> Person { get; set; }
+        public virtual DbSet<Person> Person { get; set; }
 
-        public DbSet<Product> Products { get; set; }
-        
-        public DbSet<Store> Stores { get; set; }
+        public virtual DbSet<Product> Products { get; set; }
 
-        public DbSet<ProductDetail> ProductDetails { get; set; }
+        public virtual DbSet<Store> Stores { get; set; }
+
+        public virtual DbSet<ProductDetail> ProductDetails { get; set; }
     }
 }
